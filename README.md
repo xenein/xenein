@@ -1,8 +1,8 @@
 👋 Hi, I’m @xenein
 
-👀 I like to fiddle around in Python. If you want to annoy your ISP, your lawmakers or your government at large, I might be involved in projects helping you to do so. 
+👀 I like to fiddle around in Python. 
 
-🌱 It'd be nice if I'd get around learning more about cryptography, implementing and verifying security.
+🌱 
 
 
 <!---
